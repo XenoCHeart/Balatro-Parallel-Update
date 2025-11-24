@@ -1,5 +1,5 @@
 # Balatro Parallel Update
-Status: $${\\color{red}Down}$$
+Status: $${\\color{green}Up to Date}$$
 
 Welcome to Parallel Update! You have been selected to play a BRAND NEW UPDATE before anyone else. There will be a few changes this update, but some new faces to meet along the way.
 Balatro Parallel Update (Formally Known as Community Update) is an UNOFFICIAL FAN-UPDATE to the game with no input by LocalThunk (So crashes should not be sent to them but to here instead). If you wish to work in some way on the project, either through playtests, ideas, etc, please check the balatro discord thread. This will have every addition and major change included.
